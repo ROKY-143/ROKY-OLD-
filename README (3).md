@@ -1,5 +1,5 @@
-## [ 💝MY CookieS BoT🤖 ] 
-# <h4 align="center">❤️BoT RunNinG TooLS❤️
+## [ MY CookieS BoT🤖 ]
+ <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
 
 - ` [ Basic Termux Modules Installation ] `
