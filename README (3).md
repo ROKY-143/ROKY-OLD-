@@ -2,14 +2,12 @@
  <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
 
-- ` [ Basic Termux Modules ] `
-
 - `pkg update && pkg upgrade -y
 pkg install python -y
 pip install pyTelegramBotAPI instaloader pyotp requests
 pkg install git -y`
 
- <h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
+<h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
 
 - `rm -rf HBX-TEAM` 
 - `git clone https://github.com/mdsantoakhi-alt/HBX-TEAM`
