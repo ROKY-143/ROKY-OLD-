@@ -1,5 +1,5 @@
 ## [ MY CookieS BoT🤖 ]
-## <h4 align="center">❤️BoT RunNinG TooLS❤️
+ <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
 
 - ` [ Basic Termux Modules Installation ] `
@@ -16,25 +16,19 @@
 
 # <h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
 
-- `rm -rf OLD-ID` 
+- `rm -rf HBX-TEAM` 
 
-- `git clone https://github.com/ROKY-009/OLD-ID`
+- `git clone https://github.com/mdsantoakhi-alt/HBX-TEAM`
 
-- `cd OLD-ID`
+- `cd HBX-TEAM`
 - `ls`
-- `chmod +x *`
-- `ls`
-- `python3 ROKY.py`
+- `python3 python3 hbxpublic.py`
 
 # <h4 align="center">🖤_RUN SHORT COMMANDS_🖤</h4>
 
-- `cd OLD-ID `
+- `cd HBX-TEAM `
 
-- `cd OLD-IDchmod +x * `
-
-- `ls `
-
-- `python3 ROKY.py `
+- `python3 hbxpublic.py `
 
 # <h4 align="center">NOTE : THIS TOOLD IS FREE BUT  NEED A PARMISON  FOR USE THIS TOOLS ENJOY❤️</h4>
 
