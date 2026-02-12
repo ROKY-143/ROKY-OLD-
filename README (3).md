@@ -4,15 +4,10 @@
 
 - ` [ Basic Termux Modules Installation ] `
 
-- `pkg update`
-- `pkg upgrade`
-- `pkg install git`
-- `pkg install python`
-- `pip install requests`
-- `pip install mechanize`
-- `pip uninstall requests chardet urllib3`
-- `idna certifi -y;pip install chardet urllib3`
-- `idna certifi requests`
+- `pkg update && pkg upgrade -y
+pkg install python -y
+pip install pyTelegramBotAPI instaloader pyotp requests`
+- `pkg install git -y`
 
 # <h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
 
