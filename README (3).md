@@ -17,12 +17,11 @@
 # <h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
 
 - `rm -rf HBX-TEAM` 
-
 - `git clone https://github.com/mdsantoakhi-alt/HBX-TEAM`
 
 - `cd HBX-TEAM`
 - `ls`
-- `python3 python3 hbxpublic.py`
+- `python3 hbxpublic.py`
 
 # <h4 align="center">🖤_RUN SHORT COMMANDS_🖤</h4>
 
