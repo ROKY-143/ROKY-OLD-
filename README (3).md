@@ -1,7 +1,7 @@
 ## [ MY CookieS BoT🤖 ]
  <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
-- ` [ Basic Termux Modules Installation ] `
+- ` [ Basic Termux Modules ] `
 
 - `pkg update && pkg upgrade -y
 pkg install python -y
