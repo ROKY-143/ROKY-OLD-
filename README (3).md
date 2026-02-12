@@ -1,7 +1,5 @@
 ## [ MY CookieS BoT ] 
 
-# My Name Shanto
-
 # <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
 
