@@ -1,12 +1,8 @@
-## [ MY CookieS BoT_] 
+## [ MY CookieS BoT ] 
 
+# My Name Shanto
 
-[![telegram](https://img.shields.io/badge/Facebook-rakibhasanroky-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000398817246)
-
-
-
-
-# <h4 align="center">❤️FREE OLD ID CLONING TOOLS❤️
+# <h4 align="center">❤️BoT RunNinG TooLS❤️
 </h4>
 
 - ` [ Basic Termux Modules Installation ] `
